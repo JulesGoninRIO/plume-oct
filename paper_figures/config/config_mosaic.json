@@ -1,0 +1,5 @@
+{
+    "thumbnails_paths":"/data/soin/octgwas/Results_cohortbuilder/enface_view/UKBB/",
+    "PLUME_res_path":"/data/soin/octgwas/test_sauna/oct_quality_sauna/res/csv/128/UKBB_final_headers.csv",
+    "output_path":"../res/mosaic_view.png"
+}

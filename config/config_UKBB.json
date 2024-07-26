@@ -1,0 +1,10 @@
+{
+    "n_b_scans": 128,
+    "input": "/data/soin/retina/UKbiobank_90947/Clean_UKBB_data/21013_dcm_right_eye/",
+    "output": "./res/",
+    "name_output" : "UKBB_final", 
+    "save_misalignment" : true,
+    "display_fundus" : false,
+    "save_pickles" : false,
+    "ol":false
+}
