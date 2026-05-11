@@ -1,0 +1,10 @@
+{
+    "header_csv" : "/data/soin/octgwas/fig_sauna/Results_SAUNA_OL/256/csv/OL_256_headers.csv",
+    "misalignment_csv" : "/data/soin/octgwas/fig_sauna/Results_SAUNA_OL/256/csv/OL_256_misalignment.csv", 
+    "paths_images":"/data/soin/octgwas/data_OL/annotations/OCTs_256/",
+    "annot_csv" : "/data/soin/octgwas/data_OL/annotations/Annotation_agreement_Laurent_Flavie/annotation_256.csv", 
+    "n_b_scans": 256, 
+    "name_annot":"consensus2",
+    "output_dir" : "../res/"
+
+}

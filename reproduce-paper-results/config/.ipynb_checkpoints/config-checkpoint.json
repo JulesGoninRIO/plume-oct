@@ -1,0 +1,19 @@
+{
+    "General": {
+        "step": 1,
+        "bins": 2,
+        "from_idx": 0,
+        "to_idx": 2,
+        "min_sample_size": null,
+        "gif": 0,
+        "modality": null
+    },
+    "OL": {
+        "input": "T:/Studies/OphtalmoLaus_Sauna/input/CohortBuilder_run_15_11_2022/OL_browsed.json",
+        "output": "T:/Studies/OCTGWAS/code/alicia_test/oct_quality"
+    },
+    "SOIN": {
+        "input": "/data/soin/retina/UKbiobank_90947/dataset_670066/21013_dcm_0_0035_0_012/",
+        "output": "/data/soin/octgwas/results_SAUNA/"
+    }
+}

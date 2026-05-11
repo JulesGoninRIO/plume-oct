@@ -1,0 +1,5 @@
+{
+    "dcm_folder": "/data/soin/retina/UKbiobank_90947/Clean_UKBB_data/21013_dcm_right_eye/",
+    "pids":[],
+    "output_folder": "/data/soin/retina/UKbiobank_90947/flipped_dicoms_Right/"
+}

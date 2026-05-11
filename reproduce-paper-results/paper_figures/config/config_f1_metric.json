@@ -1,0 +1,11 @@
+{
+    "directory_path": "../res/csv/",
+    "names_type_peaks": ["small", "medium", "high_medium", "high"],
+    "list_separate_peaks": [5,10,25],
+    "n_b_scans" : 320, 
+    "output_dir": "../res/", 
+    "hue_order":["A1_A2",  "A1_A3",
+    "A1_A4", "A2_A3",
+   "A2_A4","A3_A4","C1_C2"]
+
+}

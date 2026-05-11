@@ -1,0 +1,10 @@
+{
+    "n_b_scans": 128,
+    "input": "/data/soin/octgwas/data_OL/",
+    "output": "./res/",
+    "name_output" : "OL_128", 
+    "display_fundus" : false, 
+    "save_misalignment" : true,
+    "save_pickles" : false,
+    "ol":true
+}

@@ -1,0 +1,12 @@
+{
+    "header_csv" : "/data/soin/octgwas/fig_sauna/Results_SAUNA_OL/320/csv/OL_320_headers.csv",
+    "misalignment_csv" : "/data/soin/octgwas/fig_sauna/Results_SAUNA_OL/320/csv/OL_320_misalignment.csv", 
+    "paths_images":"/data/soin/octgwas/data_OL/annotations/OCTs_320/",
+    "csv_annot_1" : "/data/soin/octgwas/data_OL/annotations/OCT_annotation_Alicia/annotation_320.csv",
+    "csv_annot_2" : "/data/soin/octgwas/data_OL/annotations/OCT_annotation_Ilenia/annotation_320.csv",
+    "name_annot1" : "A1", 
+    "name_annot2" : "A2",
+    "n_b_scans": 320, 
+    "output_dir" : "../res/"
+
+}
